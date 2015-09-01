@@ -17,4 +17,5 @@ Resources
 - [Working with Kotlin in Android Studio](http://blog.jetbrains.com/kotlin/2013/08/working-with-kotlin-in-android-studio/)
 - [Kotlin plugin](https://plugins.jetbrains.com/plugin/6954?pr=idea)
 - [Kotlin show & tell GitHub repository](https://github.com/FutureProcessing/kotlin_showandtell)
+- [Kotlin & Android presentation from Mobile Silesia Group](https://github.com/mobile-silesia-group/presentations/tree/master/3-kotlin-and-android)
 - [Hello Kotlin - article on my blog](http://blog.wittchen.biz.pl/hello-kotlin/)
