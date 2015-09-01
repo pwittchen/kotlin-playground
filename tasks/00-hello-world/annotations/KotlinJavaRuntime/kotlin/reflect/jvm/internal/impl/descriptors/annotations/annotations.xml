@@ -1,0 +1,257 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl AnnotationsImpl(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitKClassValue(kotlin.reflect.jvm.internal.impl.resolve.constants.KClassValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitAnnotationValue(kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitDoubleValue(kotlin.reflect.jvm.internal.impl.resolve.constants.DoubleValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitBooleanValue(kotlin.reflect.jvm.internal.impl.resolve.constants.BooleanValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitNullValue(kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitNumberTypeValue(kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations OBJECT$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl AnnotationDescriptorImpl(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitCharValue(kotlin.reflect.jvm.internal.impl.resolve.constants.CharValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotated kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitJavaClassValue(kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitShortValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ShortValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitEnumValue(kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitLongValue(kotlin.reflect.jvm.internal.impl.resolve.constants.LongValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl kotlin.reflect.jvm.internal.impl.types.JetType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitFloatValue(kotlin.reflect.jvm.internal.impl.resolve.constants.FloatValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotatedImpl kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findExternalAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.lang.Void findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getEMPTY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitJavaClassValue(kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitValue(kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitErrorValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl AnnotationDescriptorImpl(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion access$init$0()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitShortValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ShortValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.lang.Void findExternalAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitAnnotationValue(kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue, D)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitStringValue(kotlin.reflect.jvm.internal.impl.resolve.constants.StringValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitDoubleValue(kotlin.reflect.jvm.internal.impl.resolve.constants.DoubleValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitByteValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ByteValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotatedImpl AnnotatedImpl(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitArrayValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitErrorValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitNumberTypeValue(kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitIntValue(kotlin.reflect.jvm.internal.impl.resolve.constants.IntValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitAnnotationValue(kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue, D)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitAnnotationValue(kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitNullValue(kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitBooleanValue(kotlin.reflect.jvm.internal.impl.resolve.constants.BooleanValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitIntValue(kotlin.reflect.jvm.internal.impl.resolve.constants.IntValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.lang.Void findExternalAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitFloatValue(kotlin.reflect.jvm.internal.impl.resolve.constants.FloatValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitArrayValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.DefaultAnnotationArgumentVisitor R visitCharValue(kotlin.reflect.jvm.internal.impl.resolve.constants.CharValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findExternalAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitStringValue(kotlin.reflect.jvm.internal.impl.resolve.constants.StringValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitLongValue(kotlin.reflect.jvm.internal.impl.resolve.constants.LongValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor kotlin.reflect.jvm.internal.impl.types.JetType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitEnumValue(kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor R visitByteValue(kotlin.reflect.jvm.internal.impl.resolve.constants.ByteValue, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findExternalAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

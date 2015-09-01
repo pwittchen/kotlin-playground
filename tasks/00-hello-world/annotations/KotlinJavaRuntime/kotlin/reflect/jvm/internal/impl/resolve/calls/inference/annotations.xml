@@ -1,0 +1,404 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem void addSubtypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean noCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor getCurrentSubstitutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.TypeProjection access$getTypeProjection$0(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem filterConstraints(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition,? extends java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound Bound(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds kotlin.reflect.jvm.internal.impl.types.Variance getVarianceOfPosition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem void addSupertypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.SubstitutionWithCapturedTypeApproximation SubstitutionWithCapturedTypeApproximation(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem filterConstraints(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition,? extends java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterCaptureConstraint$4(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl java.util.Set&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getTypeVariables()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.JetType createCorrespondingFunctionTypeForFunctionPlaceholder(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.TypeProjection access$getTypeProjection$0(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterConstraint$6(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void addSubtypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem void registerTypeVariables(java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,? extends kotlin.reflect.jvm.internal.impl.types.Variance&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean noCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterConstraint$6(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.JetType createCorrespondingFunctionTypeForFunctionPlaceholder(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void addSupertypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertEqualTypes(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor getCurrentSubstitutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.constraintSystemStatus.1 boolean hasOnlyErrorsFromPosition(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.CapturedTypeConstructor.6c84c44e boolean isCaptured(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ErrorInConstrainingType ErrorInConstrainingType(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemStatus getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound Bound(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertEqualTypes(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError substituteTypeVariable(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemStatus boolean hasOnlyErrorsFromPosition(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.JetType createCorrespondingFunctionTypeForFunctionPlaceholder(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound kotlin.reflect.jvm.internal.impl.types.JetType getConstrainingType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor kotlin.reflect.jvm.internal.impl.types.TypeProjection getTypeProjection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterConstraint$6(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem substituteTypeVariables(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$doAddConstraint$2(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.ConstraintKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.ConstraintKind EQUAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CannotCapture CannotCapture(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl java.util.ArrayList&lt;kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError&gt; access$getErrors$1(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor getResultingSubstitutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.ConstraintSystemImpl.d18b2272 kotlin.reflect.jvm.internal.impl.types.JetType createCorrespondingFunctionTypeForFunctionPlaceholder(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem filterConstraintsOut(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemStatus getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl TypeBoundsImpl(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.Variance) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl boolean access$isMyTypeVariable$5(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.JetType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl java.util.ArrayList&lt;kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError&gt; access$getErrors$1(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CannotCapture kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor getTypeVariable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterConstraint$6(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.JetType getSubTypeRepresentative()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$doAddConstraint$2(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.ConstraintKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CannotCapture CannotCapture(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor getTypeVariable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem java.util.Set&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getTypeVariables()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor getTypeVariable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem void addSupertypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void addSubtypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind EXACT_BOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl TypeBoundsImpl(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.Variance) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.ConstraintSystemImpl.d18b2272 kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor setApproximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind UPPER_BOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError ConstraintError(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.JetType createCapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterConstraint$6(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor setApproximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean capture(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertSubtype(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl filter(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition,? extends java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError&gt; getConstraintErrors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.JetType createCapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl getTypeBounds(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor setApproximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl void addBound(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem substituteTypeVariables(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds getTypeBounds(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind LOWER_BOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.JetType getDelegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl filter(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition,? extends java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor access$getMyTypeVariable$3(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean capture(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterCaptureConstraint$4(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.ConstraintSystemImpl.d18b2272 kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor setApproximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertSubtype(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl kotlin.reflect.jvm.internal.impl.types.Variance getVarianceOfPosition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.ConstraintSystemImpl.d18b2272 kotlin.reflect.jvm.internal.impl.types.JetType createCorrespondingFunctionTypeForFunctionPlaceholder(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertEqualTypeConstructors(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition getConstraintPosition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl boolean access$isMyTypeVariable$5(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeConstructorMismatch TypeConstructorMismatch(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl java.util.LinkedHashMap&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl&gt; access$getTypeParameterBounds$0(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.CapturedTypeConstructor.6c84c44e kotlin.reflect.jvm.internal.impl.types.JetType createCapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor access$getMyTypeVariable$3(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition getPosition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void addSupertypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertEqualTypes(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertSubtype(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$doAddConstraint$2(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.ConstraintKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.addConstraint.typeCheckingProcedure.1 boolean assertEqualTypeConstructors(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl java.util.LinkedHashSet&lt;kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound&gt; getBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterCaptureConstraint$4(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage boolean isCaptured(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.CapturedTypeConstructor.6c84c44e kotlin.reflect.jvm.internal.impl.types.JetType createCapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.JetType getSuperTypeRepresentative()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound Bound(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl void addBound(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.SubstitutionWithCapturedTypeApproximation kotlin.reflect.jvm.internal.impl.types.TypeSubstitution getSubstitution()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem void addSubtypeConstraint(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.Bound&gt; getBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem filterConstraintsOut(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl java.util.LinkedHashMap&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl&gt; access$getTypeParameterBounds$0(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$doAddConstraint$2(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.ConstraintKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void access$generateTypeParameterCaptureConstraint$4(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl java.util.Collection getBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem getSystemWithoutWeakConstraints()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.SubstitutionWithCapturedTypeApproximation kotlin.reflect.jvm.internal.impl.types.TypeProjection get(kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType boolean sameTypeConstructor(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor CapturedTypeConstructor(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystem kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor getResultingSubstitutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds getTypeBounds(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl void registerTypeVariables(java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,? extends kotlin.reflect.jvm.internal.impl.types.Variance&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.ConstraintError.9530cd25 kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError substituteTypeVariable(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintError, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.ConstraintSystemImpl.ConstraintKind SUB_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.InferencePackage.ConstraintSystemImpl.d18b2272 kotlin.reflect.jvm.internal.impl.types.JetType createCorrespondingFunctionTypeForFunctionPlaceholder(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBoundsImpl void addBound(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.TypeBounds.BoundKind, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

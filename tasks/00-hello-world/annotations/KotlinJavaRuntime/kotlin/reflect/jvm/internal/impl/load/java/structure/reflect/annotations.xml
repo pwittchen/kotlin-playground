@@ -1,0 +1,506 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.Collection getFields()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationAsAnnotationArgument ReflectJavaAnnotationAsAnnotationArgument(kotlin.reflect.jvm.internal.impl.name.Name, java.lang.annotation.Annotation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner..TImpl kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaArrayType kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType getComponentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters(java.lang.reflect.Type[], java.lang.annotation.Annotation[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter ReflectJavaTypeParameter(java.lang.reflect.TypeVariable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.util.Collection getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass getContainingClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument findArgument(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner..TImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter kotlin.reflect.jvm.internal.impl.name.Name getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.lang.reflect.AnnotatedElement getElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument findArgument(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner..TImpl kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters(java.lang.reflect.Type[], java.lang.annotation.Annotation[], boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass&gt; getClasses(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,? extends java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaArrayType java.lang.reflect.Type getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPackage ReflectJavaPackage(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaLiteralAnnotationArgument ReflectJavaLiteralAnnotationArgument(kotlin.reflect.jvm.internal.impl.name.Name, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField&gt; getFields()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.reflectClassUtil.9a36aa85 kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter java.util.Collection getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod java.lang.reflect.Method getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType&gt; getTypeArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument.Factory kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument create(java.lang.Object, kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType getDefaultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType java.lang.reflect.Type getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage java.lang.Class&lt;?&gt; createArrayType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType java.lang.reflect.Type getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.reflectClassUtil.9a36aa85 java.lang.ClassLoader getClassLoader(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField java.lang.reflect.Field getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaLiteralAnnotationArgument java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod java.lang.reflect.Member getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(java.lang.annotation.Annotation[], kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType createArrayType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.lang.reflect.Member getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass&gt; getClasses(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,? extends java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.name.ClassId getClassId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument.Factory kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument.Factory access$init$0()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner getOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.ReflectJavaAnnotationOwner.54204ebd kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(java.lang.annotation.Annotation[], kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(java.lang.annotation.Annotation[], kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassObjectAnnotationArgument kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getReferencedType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType.Factory kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType.Factory access$init$0()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters(java.lang.reflect.Type[], java.lang.annotation.Annotation[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaWildcardType java.lang.reflect.WildcardType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.reflectClassUtil.9a36aa85 java.lang.String getDesc(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType Factory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaConstructor ReflectJavaConstructor(java.lang.reflect.Constructor&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPrimitiveType ReflectJavaPrimitiveType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType ReflectJavaClassifierType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType createImmediateType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.Collection getMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassObjectAnnotationArgument ReflectJavaClassObjectAnnotationArgument(kotlin.reflect.jvm.internal.impl.name.Name, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.ReflectJavaAnnotationOwner.54204ebd java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations(java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage java.lang.ClassLoader getClassLoader(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner..TImpl boolean isFinal(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType getDefaultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass resolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass&gt; getInnerClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage java.lang.ClassLoader getClassLoader(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner..TImpl boolean isAbstract(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod&gt; getMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField java.lang.reflect.Member getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType.Factory kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType create(java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage&gt; getSubPackages()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter ReflectJavaValueParameter(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType, java.lang.annotation.Annotation[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.ReflectJavaAnnotationOwner.54204ebd java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations(java.lang.annotation.Annotation[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass ReflectJavaClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.reflectClassUtil.9a36aa85 java.lang.Class&lt;?&gt; createArrayType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType&gt; getUpperBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaConstructor&gt; getConstructors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument access$getArgumentValue$0(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation, java.lang.reflect.Method) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.Collection getConstructors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter java.util.Collection getUpperBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.name.FqName getFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaArrayType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getComponentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.lang.reflect.AnnotatedElement getElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument Factory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType OBJECT$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.Collection getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider getTypeProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPrimitiveType java.lang.Class&lt;?&gt; getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.name.Name getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner..TImpl kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaWildcardType ReflectJavaWildcardType(java.lang.reflect.WildcardType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.ReflectJavaAnnotationOwner.54204ebd kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(java.lang.annotation.Annotation[], kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument&gt; getArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass getContainingClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPackage kotlin.reflect.jvm.internal.impl.name.FqName getFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaArrayType ReflectJavaArrayType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage java.lang.String getDesc(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner..TImpl kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod ReflectJavaMethod(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations(java.lang.annotation.Annotation[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument access$getArgumentValue$0(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass boolean access$isEnumValuesOrValueOf$0(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass, java.lang.reflect.Method) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations(java.lang.annotation.Annotation[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType.Factory kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType create(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaWildcardType java.lang.reflect.Type getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPackage java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType createImmediateType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaEnumValueAnnotationArgument kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField resolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType java.lang.String getPresentableText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaEnumValueAnnotationArgument ReflectJavaEnumValueAnnotationArgument(kotlin.reflect.jvm.internal.impl.name.Name, java.lang.Enum&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass resolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument access$getArgumentValue$0(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation, java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaArrayAnnotationArgument java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument&gt; getElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaArrayAnnotationArgument ReflectJavaArrayAnnotationArgument(kotlin.reflect.jvm.internal.impl.name.Name, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaConstructor java.lang.reflect.Member getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMember kotlin.reflect.jvm.internal.impl.name.Name getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation ReflectJavaAnnotation(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument.Factory kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument create(java.lang.Object, kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor getSubstitutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField ReflectJavaField(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass boolean access$isEnumValuesOrValueOf$0(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationArgument OBJECT$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner..TImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation&gt; getAnnotations(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner..TImpl boolean isStatic(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaModifierListOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaMethod java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaConstructor java.lang.reflect.Constructor&lt;?&gt; getMember()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.reflectClassUtil.9a36aa85 kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass.OriginKind getOriginKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClassifierType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifier getClassifier()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaWildcardType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider getTypeProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationAsAnnotationArgument kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation getAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaAnnotationOwner java.lang.reflect.AnnotatedElement getElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaPrimitiveType java.lang.reflect.Type getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaValueParameter ReflectJavaValueParameter(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaType, java.lang.annotation.Annotation[], boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaTypeParameter&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage.reflectClassUtil.9a36aa85 java.lang.ClassLoader getClassLoader(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaEnumValueAnnotationArgument kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaField resolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectPackage kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaClass java.util.Collection getInnerClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

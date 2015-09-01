@@ -1,0 +1,269 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.StringValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ShortValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantsPackage kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt; getIntegerValue(long, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue JavaClassValue(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.KClassValue java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.DoubleValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.CharValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue.ErrorValueWithMessage java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.BooleanValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant java.lang.Number getValue(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.KClassValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ByteValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue.ErrorValueWithMessage ErrorValueWithMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.BooleanValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantsPackage.ConstantUtils.4afa2146 kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt; getIntegerValue(long, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstructor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.JetType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.StringValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue ArrayValue(java.util.List&lt;kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt;, kotlin.reflect.jvm.internal.impl.types.JetType, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.CharValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ByteValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant java.lang.Number getValue(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.KClassValue KClassValue(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.DoubleValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue AnnotationValue(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ShortValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue.ErrorValueWithMessage kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.LongValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue.ErrorValueWithMessage java.lang.String getMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue ArrayValue(java.util.List&lt;kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt;, kotlin.reflect.jvm.internal.impl.types.JetType, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.NullValue java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.CharValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.FloatValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.StringValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.AnnotationValue java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstant IntegerValueTypeConstant(java.lang.Number, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.FloatValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ErrorValue.ErrorValueWithMessage kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.LongValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.BooleanValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.KClassValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.KClassValue kotlin.reflect.jvm.internal.impl.types.JetType getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstructor kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.LongValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.FloatValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ByteValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.JavaClassValue kotlin.reflect.jvm.internal.impl.types.JetType getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.DoubleValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ShortValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantsPackage kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt; getIntegerValue(long, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.types.JetType) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueTypeConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue java.util.List&lt;kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt;&gt; getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ArrayValue kotlin.reflect.jvm.internal.impl.types.JetType getType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantsPackage.ConstantUtils.4afa2146 kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt; getIntegerValue(long, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.types.JetType) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue R accept(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationArgumentVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.constants.EnumValue EnumValue(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

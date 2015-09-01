@@ -1,0 +1,170 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPropertyInitializerEvaluator kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt; getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getComponentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationAsAnnotationArgument kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation getAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaModifierListOwner kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaWildcardType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider getTypeProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor getSubstitutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType createArrayType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassObjectAnnotationArgument kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getReferencedType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage kotlin.reflect.jvm.internal.impl.name.FqName getFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider getTypeProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass&gt; getClasses(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,? extends java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType getDefaultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider kotlin.reflect.jvm.internal.impl.load.java.structure.JavaWildcardType createUpperBoundWildcard(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType substitute(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter,kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType&gt; getSubstitutionMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument findArgument(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType&gt; getTypeArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType substitute(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument&gt; getArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider kotlin.reflect.jvm.internal.impl.load.java.structure.JavaWildcardType createUnboundedWildcard()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass.OriginKind SOURCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType substitute(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider kotlin.reflect.jvm.internal.impl.load.java.structure.JavaWildcardType createUpperBoundWildcard(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType java.lang.String getPresentableText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass getContainingClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaValueParameter kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass.OriginKind COMPILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaNamedElement kotlin.reflect.jvm.internal.impl.name.Name getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayAnnotationArgument java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument&gt; getElements()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType&gt; getUpperBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType createJavaLangObjectType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass&gt; getInnerClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType createImmediateType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaConstructor&gt; getConstructors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass.OriginKind getOriginKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass.OriginKind KOTLIN_LIGHT_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPropertyInitializerEvaluator kotlin.reflect.jvm.internal.impl.resolve.constants.CompileTimeConstant&lt;?&gt; getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod&gt; getMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPropertyInitializerEvaluator boolean isNotNullCompileTimeConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField&gt; getFields()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider kotlin.reflect.jvm.internal.impl.load.java.structure.JavaWildcardType createLowerBoundWildcard(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass&gt; getClasses(kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,? extends java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType createImmediateType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeSubstitutor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation&gt; getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage&gt; getSubPackages()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeProvider kotlin.reflect.jvm.internal.impl.load.java.structure.JavaWildcardType createLowerBoundWildcard(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPropertyInitializerEvaluator DO_NOTHING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClassifierType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

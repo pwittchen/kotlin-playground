@@ -1,0 +1,101 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JavaDescriptorResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider getPackageFragmentProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byInternalName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.name.FqName getPackageFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JavaDescriptorResolver JavaDescriptorResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.name.FqName getFqNameForClassNameWithoutDollars()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType java.lang.String getDesc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType getPrimitiveType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JavaDescriptorResolver kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byInternalName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byClassId(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName java.lang.String getInternalName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType get(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byFqNameWithoutInnerClasses(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType get(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType get(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byFqNameWithoutInnerClasses(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType SHORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType BYTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType INT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byFqNameWithoutInnerClasses(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType get(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byFqNameWithoutInnerClasses(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JavaDescriptorResolver JavaDescriptorResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType kotlin.reflect.jvm.internal.impl.name.FqName getWrapperFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmClassName byClassId(kotlin.reflect.jvm.internal.impl.name.ClassId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType boolean isWrapperClassName(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType CHAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,101 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.CompoundConstraintPosition java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind VALUE_PARAMETER_POSITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex copy$default(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition..TImpl boolean isStrong(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl copy(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind RECEIVER_POSITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition position(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.CompoundConstraintPosition java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition&gt; getPositions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex copy$default(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind COMPOUND_CONSTRAINT_POSITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl copy$default(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind TYPE_BOUND_POSITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition position()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind component1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind component1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex copy(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl ConstraintPositionImpl(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition..TImpl boolean isCaptureAllowed(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl copy(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex ConstraintPositionWithIndex(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex copy(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex copy$default(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.CompoundConstraintPosition CompoundConstraintPosition(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPosition...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind EXPECTED_TYPE_POSITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl copy$default(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind SPECIAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl copy$default(kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionImpl, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionKind FROM_COMPLETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.constraintPosition.ConstraintPositionWithIndex java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

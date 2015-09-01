@@ -1,0 +1,287 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverrides(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor getAnnotationParameterByName(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeFieldSignature resolveAlternativeFieldSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.types.JetType, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY kotlin.reflect.jvm.internal.impl.load.java.descriptors.SamConstructorDescriptor resolveSamConstructor(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.resolve.scopes.JetScope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverrides(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage TYPE_ARGUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver kotlin.reflect.jvm.internal.impl.load.java.descriptors.SamConstructorDescriptor resolveSamConstructor(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.resolve.scopes.JetScope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage MEMBER_SIGNATURE_COVARIANT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation findExternalAnnotation(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature resolveAlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember, boolean, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordField(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportCannotInferVisibility(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor resolveSamAdapter(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature resolveAlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember, boolean, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportLoadingError(java.lang.String, java.lang.Exception) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.MethodSignatureChecker void checkSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY kotlin.reflect.jvm.internal.impl.types.JetType resolveFunctionTypeIfSamInterface(kotlin.reflect.jvm.internal.impl.load.java.descriptors.JavaClassDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod,? extends kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature PropagatedMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.MethodSignatureChecker void checkSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage UPPER_BOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature PropagatedMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverrides(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeFieldSignature kotlin.reflect.jvm.internal.impl.types.JetType getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY java.lang.Void resolveSamConstructor(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.resolve.scopes.JetScope) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver D resolveSamAdapter(D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverrides(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor getAnnotationParameterByName(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeFieldSignature resolveAlternativeFieldSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.types.JetType, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportIncompatibleAbiVersion(kotlin.reflect.jvm.internal.impl.name.ClassId, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeFieldSignature resolveAlternativeFieldSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.types.JetType, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver kotlin.reflect.jvm.internal.impl.load.java.descriptors.SamConstructorDescriptor resolveSamConstructor(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.resolve.scopes.JetScope) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordConstructor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement, kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils boolean isObjectMethodInInterface(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportIncompleteHierarchy(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature AlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY java.lang.Void resolveSamConstructor(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.resolve.scopes.JetScope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.MemberSignature java.util.List&lt;java.lang.String&gt; getErrors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordMethod(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage MEMBER_SIGNATURE_INVARIANT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils boolean isObjectMethod(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverrides(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver kotlin.reflect.jvm.internal.impl.types.JetType resolveFunctionTypeIfSamInterface(kotlin.reflect.jvm.internal.impl.load.java.descriptors.JavaClassDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod,? extends kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver DO_NOTHING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportIncompatibleAbiVersion(kotlin.reflect.jvm.internal.impl.name.ClassId, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportIncompleteHierarchy(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage SUPERTYPE_ARGUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY access$init$0()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage SUPERTYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver void reportSignatureErrors(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature AlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClassResolvedFromSource(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.MethodSignatureChecker void checkSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature PropagatedMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordMethod(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt; getSuperMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY java.lang.Void resolveSamAdapter(D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordConstructor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement, kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver kotlin.reflect.jvm.internal.impl.types.JetType resolveFunctionTypeIfSamInterface(kotlin.reflect.jvm.internal.impl.load.java.descriptors.JavaClassDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod,? extends kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation&gt; findExternalAnnotations(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverrides(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.MemberSignature MemberSignature(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY kotlin.reflect.jvm.internal.impl.load.java.descriptors.SamConstructorDescriptor resolveSamConstructor(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.resolve.scopes.JetScope) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.MethodSignatureChecker DO_NOTHING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation findExternalAnnotation(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver void reportSignatureErrors(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordField(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation&gt; findExternalAnnotations(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature resolveAlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember, boolean, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, boolean) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature AlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeMethodSignature resolveAlternativeMethodSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember, boolean, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.MethodSignatureChecker void checkSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature PropagatedMethodSignature(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage MEMBER_SIGNATURE_CONTRAVARIANT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.AlternativeFieldSignature AlternativeFieldSignature(kotlin.reflect.jvm.internal.impl.types.JetType, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver.EMPTY kotlin.reflect.jvm.internal.impl.types.JetType resolveFunctionTypeIfSamInterface(kotlin.reflect.jvm.internal.impl.load.java.descriptors.JavaClassDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod,? extends kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver OBJECT$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver kotlin.reflect.jvm.internal.impl.load.java.components.ExternalSignatureResolver.PropagatedMethodSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

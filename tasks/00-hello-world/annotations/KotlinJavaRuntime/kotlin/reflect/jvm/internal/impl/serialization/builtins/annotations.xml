@@ -1,0 +1,20 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf compileTimeValue'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf className'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf callableAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf classAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf void registerAllExtensions(kotlin.reflect.jvm.internal.impl.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf parameterAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

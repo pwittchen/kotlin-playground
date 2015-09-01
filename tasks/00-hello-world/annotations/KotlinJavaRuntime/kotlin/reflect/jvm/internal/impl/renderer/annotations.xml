@@ -1,0 +1,395 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setTextFormat(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.TextFormat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderClassifierName(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendAfterValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setTypeNormalizer(kotlin.jvm.functions.Function1&lt;kotlin.reflect.jvm.internal.impl.types.JetType,kotlin.reflect.jvm.internal.impl.types.JetType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderFunctionParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setWithoutSuperTypes(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer STARTS_FROM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendBeforeValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendBeforeValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderFqName(kotlin.reflect.jvm.internal.impl.name.FqNameBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setIncludePropertyConstant(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String render(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setRenderDefaultValues(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ParameterNameRenderingPolicy ONLY_NON_SYNTHESIZED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendAfterValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderType(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setModifiers(java.util.Set&lt;kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.NameShortness SHORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendAfterValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setExcludedAnnotationClasses(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.MultiRenderer java.lang.String[] render(O) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.RendererPackage.RenderingUtils.ec091138 java.lang.String qualifierName(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setValueParametersHandler(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String render(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendBeforeValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendBeforeValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setUninferredTypeParameterAsName(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setRenderCompanionObjectName(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderType(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setExcludedAnnotationClasses(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer ONLY_NAMES_WITH_SHORT_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String render(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setDebugMode(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier ANNOTATIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer COMPACT_WITH_SHORT_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setUnitReturnType(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendBeforeValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String render(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderTypeArguments(java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setParameterNameRenderingPolicy(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ParameterNameRenderingPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setValueParametersHandler(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier MEMBER_KIND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setExcludedTypeAnnotationClasses(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer COMPACT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderTypeArguments(java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.OverrideRenderingPolicy RENDER_OPEN_OVERRIDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ParameterNameRenderingPolicy NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setClassWithPrimaryConstructor(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.RendererPackage.RenderingUtils.ec091138 java.lang.String qualifiedNameForSourceCode(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.RendererPackage java.lang.String qualifiedNameForSourceCode(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setTextFormat(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.TextFormat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.Renderer java.lang.String render(O) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.TextFormat HTML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendBeforeValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setShowInternalKeyword(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.KeywordStringsGenerated KEYWORDS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setReceiverAfterName(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier INNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String getClassKindPrefix(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderClassifierName(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ValueParametersHandler void appendAfterValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setOverrideRenderingPolicy(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.OverrideRenderingPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.Renderer java.lang.String render(O)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderFqName(kotlin.reflect.jvm.internal.impl.name.FqNameBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer SHORT_NAMES_IN_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderType(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String render(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderFunctionParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer DEBUG_TEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setExcludedTypeAnnotationClasses(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer DEPRECATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.OverrideRenderingPolicy RENDER_OVERRIDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setStartFromName(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setPrettyFunctionTypes(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setWithDefinedIn(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer HTML_NAMES_WITH_SHORT_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String getClassKindPrefix(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderType(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendAfterValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setVerbose(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setSecondaryConstructorsAsPrimary(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.RendererPackage java.lang.String qualifierName(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier MODALITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String render(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.NameShortness FULLY_QUALIFIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setParameterNameRenderingPolicy(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ParameterNameRenderingPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer HTML_COMPACT_WITH_MODIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.NameShortness SOURCE_CODE_QUALIFIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.MultiRenderer java.lang.String[] render(O)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendAfterValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setWithoutTypeParameters(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer HTML'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderClassifierName(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendBeforeValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier OVERRIDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer FLEXIBLE_TYPES_FOR_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setOverrideRenderingPolicy(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.OverrideRenderingPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.RendererPackage.RenderingUtils.ec091138 java.lang.String qualifiedNameForSourceCode(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer COMPACT_WITH_MODIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.TextFormat PLAIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setNameShortness(kotlin.reflect.jvm.internal.impl.renderer.NameShortness)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.ParameterNameRenderingPolicy ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.RendererPackage java.lang.String qualifiedNameForSourceCode(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendAfterValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setFlexibleTypesForCode(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderTypeArguments(java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderFunctionParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendBeforeValueParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderFqName(kotlin.reflect.jvm.internal.impl.name.FqNameBase)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setNormalizedVisibilities(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer HTML_FOR_UNINFERRED_TYPE_PARAMS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setModifiers(kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.Modifier...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setRenderAccessors(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererBuilder setTypeNormalizer(kotlin.jvm.functions.Function1&lt;kotlin.reflect.jvm.internal.impl.types.JetType,kotlin.reflect.jvm.internal.impl.types.JetType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.OverrideRenderingPolicy RENDER_OPEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderTypeArguments(java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer.DefaultValueParameterHandler void appendAfterValueParameter(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRendererImpl java.lang.String renderClassifierName(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderFunctionParameters(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer FQ_NAMES_IN_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.renderer.DescriptorRenderer java.lang.String renderFqName(kotlin.reflect.jvm.internal.impl.name.FqNameBase)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

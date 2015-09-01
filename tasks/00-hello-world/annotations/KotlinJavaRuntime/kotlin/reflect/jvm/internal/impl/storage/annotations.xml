@@ -1,0 +1,206 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager NO_LOCKS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createRecursionTolerantLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createRecursionTolerantNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StoragePackage.storage.98bb5b60 T get(kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt;, java.lang.Object, kotlin.PropertyMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager createDelegatingWithSameLock(kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager, kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager T compute(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createRecursionTolerantNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager lock'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createRecursionTolerantLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StoragePackage T get(kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt;, java.lang.Object, kotlin.PropertyMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager T compute(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy java.lang.RuntimeException handleException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createRecursionTolerantNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager createDelegatingWithSameLock(kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager, kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager createWithExceptionHandling(kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager createWithExceptionHandling(kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createRecursionTolerantLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createRecursionTolerantNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createRecursionTolerantLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager createDelegatingWithSameLock(kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager, kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StoragePackage.storage.98bb5b60 T get(kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt;, java.lang.Object, kotlin.PropertyMetadata) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy THROW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.RecursionDetectedResult&lt;T&gt; recursionDetectedDefault()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy java.lang.RuntimeException handleException(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createRecursionTolerantLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createLazyValueWithPostCompute(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super java.lang.Boolean,? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.NullableLazyValue&lt;T&gt; createNullableLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt; createRecursionTolerantLazyValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StoragePackage T get(kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;T&gt;, java.lang.Object, kotlin.PropertyMetadata) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull&lt;K,V&gt; createMemoizedFunction(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager LockBasedStorageManager(kotlin.reflect.jvm.internal.impl.storage.LockBasedStorageManager.ExceptionHandlingStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.storage.StorageManager kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNullable&lt;K,V&gt; createMemoizedFunctionWithNullableValues(kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, java.util.concurrent.ConcurrentMap&lt;K,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

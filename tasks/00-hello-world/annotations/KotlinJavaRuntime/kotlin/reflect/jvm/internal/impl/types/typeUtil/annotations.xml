@@ -1,0 +1,110 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 kotlin.reflect.jvm.internal.impl.types.JetType replaceAnnotations(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.TypeConstructor&gt; getContainedAndCapturedTypeParameterConstructors(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage kotlin.reflect.jvm.internal.impl.types.TypeProjection substitute(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.JetType,? extends kotlin.reflect.jvm.internal.impl.types.JetType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getCapturedTypeParameters(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getCapturedTypeParameters(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage kotlin.reflect.jvm.internal.impl.types.JetType replaceAnnotations(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.TypeConstructor&gt; getContainedAndCapturedTypeParameterConstructors(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getContainedTypeParameters(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage boolean cannotBeReified(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082.replaceAnnotations.1 kotlin.reflect.jvm.internal.impl.types.JetType getDelegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.TypeConstructor&gt; getContainedAndCapturedTypeParameterConstructors(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage boolean isArrayOfJavaLangClass(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082.replaceAnnotations.1 kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 kotlin.reflect.jvm.internal.impl.types.TypeProjection substitute(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.JetType,? extends kotlin.reflect.jvm.internal.impl.types.JetType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.TypeConstructor&gt; getContainedAndCapturedTypeParameterConstructors(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage kotlin.reflect.jvm.internal.impl.types.TypeProjection substitute(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.JetType,? extends kotlin.reflect.jvm.internal.impl.types.JetType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getContainedTypeParameters(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getCapturedTypeParameters(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 kotlin.reflect.jvm.internal.impl.types.TypeProjection substitute(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.JetType,? extends kotlin.reflect.jvm.internal.impl.types.JetType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage kotlin.reflect.jvm.internal.impl.types.JetType replaceAnnotations(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage kotlin.reflect.jvm.internal.impl.types.TypeProjection substitute(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.JetType,? extends kotlin.reflect.jvm.internal.impl.types.JetType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getContainedTypeParameters(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage boolean isJavaLangClass(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getContainedTypeParameters(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage boolean isJavaLangClassOrArray(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 boolean cannotBeReified(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 boolean isJavaLangClass(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 boolean isArrayOfJavaLangClass(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getCapturedTypeParameters(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 kotlin.reflect.jvm.internal.impl.types.TypeProjection substitute(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.JetType,? extends kotlin.reflect.jvm.internal.impl.types.JetType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 boolean isJavaLangClassOrArray(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typeUtil.TypeUtilPackage.TypeUtils.01ebc082 kotlin.reflect.jvm.internal.impl.types.JetType replaceAnnotations(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

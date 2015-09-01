@@ -1,0 +1,125 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.JetType&gt; approximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.JetType getNOTHING()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.JetType&gt; approximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.JetType replaceTypeArguments(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a.substituteCapturedTypes.typeSubstitutor.1 kotlin.reflect.jvm.internal.impl.types.TypeProjection get(kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;T&gt; copy(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument toTypeArgument(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.JetType&gt; approximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.TypeProjection toTypeProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument toTypeArgument(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument TypeArgument(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds copy$default(kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds, java.lang.Object, java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt; approximateProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.JetType replaceTypeArguments(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument kotlin.reflect.jvm.internal.impl.types.JetType getOutProjection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.JetType getNOTHING()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor getTypeParameter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.TypeProjection toTypeProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds copy$default(kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds, java.lang.Object, java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument toTypeArgument(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.TypeProjection toTypeProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.TypeProjection substituteCapturedTypes(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.JetType replaceTypeArguments(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt; approximateProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt; approximateProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument toTypeArgument(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument kotlin.reflect.jvm.internal.impl.types.JetType getInProjection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.JetType replaceTypeArguments(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt; approximateProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.TypeProjection toTypeProjection(kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.TypeProjection substituteCapturedTypes(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument TypeArgument(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument toTypeArgument(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.JetType&gt; approximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument TypeArgument(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.JetType replaceTypeArguments(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.JetType replaceTypeArguments(kotlin.reflect.jvm.internal.impl.types.JetType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.JetType getNULLABLE_ANY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage.CapturedTypeApproximation.6835cd7a kotlin.reflect.jvm.internal.impl.types.JetType getNULLABLE_ANY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypesApproximationPackage kotlin.reflect.jvm.internal.impl.types.typesApproximation.TypeArgument toTypeArgument(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

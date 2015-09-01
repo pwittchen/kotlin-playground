@@ -1,0 +1,50 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ExtensionReceiver kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getDeclarationDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue IRRELEVANT_RECEIVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.AbstractReceiverValue receiverType'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ExtensionReceiver kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor getDeclarationDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue NO_RECEIVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.AbstractReceiverValue kotlin.reflect.jvm.internal.impl.types.JetType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.TransientReceiver TransientReceiver(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.AbstractReceiverValue AbstractReceiverValue(kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ClassReceiver ClassReceiver(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ClassReceiver kotlin.reflect.jvm.internal.impl.types.JetType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ThisReceiver kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getDeclarationDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ExtensionReceiver ExtensionReceiver(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ExtensionReceiver ExtensionReceiver(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue kotlin.reflect.jvm.internal.impl.types.JetType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ClassReceiver kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getDeclarationDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ClassReceiver kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getDeclarationDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

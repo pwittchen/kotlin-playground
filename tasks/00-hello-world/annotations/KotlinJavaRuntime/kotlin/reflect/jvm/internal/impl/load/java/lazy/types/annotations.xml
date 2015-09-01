@@ -1,0 +1,200 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toFlexible.1 kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getTypeAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toAttributes(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities kotlin.reflect.jvm.internal.impl.types.JetType create(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformJavaType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility FLEXIBLE_LOWER_BOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage boolean isMarkedNotNull(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities T getCapability(java.lang.Class&lt;T&gt;, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.Flexibility) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.TypeProjection makeStarProjection(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f boolean isMarkedNullable(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f boolean isMarkedNotNull(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes LazyJavaTypeAttributes(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toFlexible(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes LazyJavaTypeAttributes(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities java.lang.String getId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toFlexible(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getTypeAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toAttributes.1 kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getTypeAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toFlexible.1 kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsedAccordingToAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver access$getTypeParameterResolver$1(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities kotlin.reflect.jvm.internal.impl.types.JetType create(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toFlexible.1 kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities T getCapability(java.lang.Class&lt;T&gt;, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.Flexibility) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver LazyJavaTypeResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f kotlin.reflect.jvm.internal.impl.name.FqName getJAVA_LANG_CLASS_FQ_NAME()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities kotlin.reflect.jvm.internal.impl.types.JetType create(kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.JetType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes LazyJavaTypeAttributes(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes..TImpl kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility getFlexibility(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility INFLEXIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformJavaType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toFlexible(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsedAccordingToAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toAttributes.1 kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsedAccordingToAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toFlexible(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toAttributes.1 kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toFlexible.1 kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility getFlexibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$0(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toAttributes$default(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, boolean, boolean, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage boolean isMarkedNullable(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver LazyJavaTypeResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.lazy.FilteredAnnotations getTypeAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility getFlexibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.TypeProjection makeStarProjection(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility getFlexibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toAttributes(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformJavaType(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f.toAttributes.1 kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility getFlexibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities T getCapability(java.lang.Class&lt;T&gt;, kotlin.reflect.jvm.internal.impl.types.JetType, kotlin.reflect.jvm.internal.impl.types.Flexibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage kotlin.reflect.jvm.internal.impl.name.FqName getJAVA_LANG_CLASS_FQ_NAME()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getTypeAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeFlexibility FLEXIBLE_UPPER_BOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver access$getTypeParameterResolver$1(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$0(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsedAccordingToAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver.FlexibleJavaClassifierTypeCapabilities INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.JetType transformArrayType$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaArrayType, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes, boolean, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.TypesPackage.LazyJavaTypeResolver.5fe0964f kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes toAttributes$default(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, boolean, boolean, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeAttributes LazyJavaTypeAttributes(kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage getHowThisTypeIsUsed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.types.LazyJavaTypeResolver kotlin.reflect.jvm.internal.impl.types.TypeProjection makeStarProjection(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeAttributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,11 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement getJavaElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
