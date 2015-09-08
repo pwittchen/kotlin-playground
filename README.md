@@ -25,4 +25,5 @@ Resources
 - [Kotlin and Spark sample on Github](https://github.com/travisspencer/kotlin-spark-demo/)
 - [Kotlin web demo - mini IDE](https://github.com/JetBrains/kotlin-web-demo)
 - [Spek - a specification framework for the JVM in Kotlin](http://jetbrains.github.io/spek/)
+- [Kannotator - infer @Nullable/@NotNull and other annotations from byte code](https://github.com/JetBrains/kannotator)
 - [Hello Kotlin - article on my blog](http://blog.wittchen.biz.pl/hello-kotlin/)
