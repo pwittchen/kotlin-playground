@@ -23,4 +23,6 @@ Resources
 - [Building APIs on the JVM using Kotlin and Spark - part 1](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
 - [Building APIs on the JVM using Kotlin and Spark - part 2](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-2/)
 - [Kotlin and Spark sample on Github](https://github.com/travisspencer/kotlin-spark-demo/)
+- [Kotlin web demo - mini IDE](https://github.com/JetBrains/kotlin-web-demo)
+- [Spek - a specification framework for the JVM in Kotlin](http://jetbrains.github.io/spek/)
 - [Hello Kotlin - article on my blog](http://blog.wittchen.biz.pl/hello-kotlin/)
