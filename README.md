@@ -11,6 +11,7 @@ IDEs
 Resources
 ---------
 - [Official website of Kotlin language](http://kotlinlang.org/)
+- [Source code of the Kotlin](https://github.com/JetBrains/kotlin)
 - [Getting started](http://kotlinlang.org/docs/tutorials/getting-started.html)
 - [Hello World Kotlin app for Android](https://github.com/pwittchen/HelloAndroidKotlin)
 - [Using project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
