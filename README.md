@@ -30,3 +30,4 @@ Resources
 - [Spek - a specification framework for the JVM in Kotlin](http://jetbrains.github.io/spek/)
 - [Kannotator - infer @Nullable/@NotNull and other annotations from byte code](https://github.com/JetBrains/kannotator)
 - [Hello Kotlin - article on my blog](http://blog.wittchen.biz.pl/hello-kotlin/)
+- Advancing Android Development with Kolin - presentation by Jake Wharton ([video](https://vimeo.com/144877458) and [slides](https://speakerdeck.com/jakewharton/advancing-development-with-kotlin-droidcon-uk-2015))
