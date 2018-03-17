@@ -1,7 +1,5 @@
-# learning-kotlin
+# kotlin-playground
 Repository created in order to learn basics of Kotlin language
-
-Kotlin is JVM language created by JetBrains. It can be easily adopted in Android projects and other JVM solutions.
 
 IDEs
 ----
